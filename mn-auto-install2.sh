@@ -6,9 +6,9 @@ YELLOW='\033[01;33m'
 BOLD='\033[1m'
 STEPS=10
 
-COINDOWNLOADLINK1=https://github.com/GamingGoProject/source/releases/download/v1.0/ggpd
-COINDOWNLOADLINK2=https://github.com/GamingGoProject/source/releases/download/v1.0/ggp-cli
-COINDOWNLOADLINK3=https://github.com/GamingGoProject/source/releases/download/v1.0/ggp-tx
+COINDOWNLOADLINK1=https://github.com/oxsouza/GGP/blob/master/ggpd
+COINDOWNLOADLINK2=https://github.com/oxsouza/GGP/blob/master/ggp-cli
+COINDOWNLOADLINK3=https://github.com/oxsouza/GGP/blob/master/ggp-tx
 COINPORT=17234
 COINRPCPORT=17235
 COINDAEMON=ggpd
